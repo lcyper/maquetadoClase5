@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+}
+header{
+    background-color: #D1DDD1;
+    height: 130px;
+}
+nav{
+    background-color: #B9CDC0;
+    height: 60px;
+}
+main{
+    min-height: 500px;
+}
+
+footer{
+    background-color: #EBC7B4;
+    height: 130px;
+}
